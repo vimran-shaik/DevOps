@@ -1,0 +1,24 @@
+Commands fot the git,
+* git --version
+* git init
+* git add or git add . or git add -A
+* git status
+* git commit -m "message"
+* git commit -a -m "message"
+* git config -global <user.name or mailid>
+* git remote add origin <github repositories link>
+* git push -u origin master
+* git clone <link of the github repositories>
+* git remote -v
+* git .git/config
+* git pull <github repositorie link> / git pull origin master
+* git logs
+* git branch <branch name>
+* git branch --lis
+* git checkout <branch name>
+* git merge <branch name>
+* git reset --merge
+* vi .gitignore (to restrict any file to track)
+* git reset <log id>
+* git stash (inorder if we don't want to commit any file)
+* git stash pop
